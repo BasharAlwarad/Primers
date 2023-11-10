@@ -1,0 +1,83 @@
+day two:
+Do you have previous knowledge of programming? If so, which one?
+how was your weekend?
+
+day three:
+How do you approach the learning process?
+What tools or resources do you utilize for learning?
+What are your hobbies or interests?
+
+day four:
+What does your typical morning look like, how do you like to start your day?
+What is your favorite traditional food in your country?
+
+day five
+Do you feel overwhelmed, if yes how do usually deal with stress?
+What is your favorite ice cream?
+
+day six:
+Do you have experience working for large companies?
+What was the biggest team you worked with?
+What's your, all-time, favorite TV show?
+
+Windows warning final evaluation:
+ 1: Lukas, Mochi, Garrett, Harun, Priyanka.
+ 2: Nora, Catia, Kimberly.
+ 3: Eudes, Sully, Rohini.
+ 
+day seven:
+What are the most important things to consider when working with a team?
+How was your weekend?
+
+Work as a team to create a
+a static website that looks like an official famous website examples:
+Mercedes: https://www.mercedes-benz.com/en/ 
+Nike: https://www.nike.com/
+Apple: https://www.apple.com/
+Discord: https://discord.com/
+
+task details:
+   1- One of the team has to create the repo, build the main structure, and invite the others.
+   2- every team member should have a branch and one commit at least (divide the work according to tasks like navbar, footer, main, etc).
+   3- Merge all branches into the main branch by using a pull request.
+   4- publish, when you are ready, by using GitHub pages.
+
+Hints and useful tools:
+https://codesandbox.io/s/html-css-responsive-layout-y0b7k
+https://codesandbox.io/s/github/HarshitRatan/Netflix-Clone-HTML-CSS-Only/tree/main/?file=/index.css
+https://codesandbox.io/s/amazon-clone-using-html-and-css-wj824q
+https://codesandbox.io/s/github/matteopelusi7/html-css-youtube/tree/main/?file=/style.css
+https://www.w3schools.com/css/css_rwd_intro.asp#:~:text=It%20is%20called%20responsive%20web,look%20good%20on%20any%20screen.
+https://www.youtube.com/watch?v=WwSe8eW27zI&list=PLSJxovi1IyDEMvSjXPHumOUbTUgvE1HwE&index=4&ab_channel=Mr.WebDesigner
+https://www.youtube.com/watch?v=MrQYwhngi7M&ab_channel=GowthamTirri
+
+groups:
+group one: Priyanka, Mochi, Sully, Eudes.
+group two:  Kimberly, Lukas, Nora, Rohini.
+group three: Catia, Garrett, Harun.
+
+day eight:
+As a web developer, do you prefer working for a start-up, a large corporation, or as a freelancer?
+What is your favorite fruit?
+
+learning programming fundamentals with Scratch
+Links, references, and tutorials:
+https://scratch.mit.edu/
+https://www.youtube.com/watch?v=zN_Zos7Fxac
+https://www.youtube.com/watch?v=RQ0eWzVKrIM
+https://www.youtube.com/watch?v=1jHvXakt1qw
+https://scratch.mit.edu/projects/251471041/editor/
+https://scratch.mit.edu/projects/251471041/editor/
+
+
+day nine:
+1-how do you imagine the future of the internet will look like?
+2-What is your favorite vacation destination?
+
+day ten:
+1-How often do you use AI and how?
+2-If you had the choice to transform into an animal for a day, what would it be?
+
+day eleven:
+1-how can you confirm that you were not interacting with AI-generated characters the whole time?
+2-do you feel ready to start the course after the primer?
